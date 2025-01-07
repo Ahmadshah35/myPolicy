@@ -128,16 +128,19 @@ const PrivacyPolicy = () => {
                     If you have any questions about this Privacy Policy or wish to exercise your
                     rights regarding your personal data, please contact us at:
                 </p>
-                <div className="text-gray-600">
-                    Emails: <span className="text-blue-500">texassourcepros.purchasing@gmail.com,</span>
-                    <p className="text-blue-500">Purchasing@texassourcepros.com,</p>
-                    <p className="text-blue-500">Payables@texassourcepros.com,</p>
-                    <p className="text-blue-500">Erica@texassourcepros.com,</p>
-                    <p className="text-blue-500">Quotes@texassourcepros.com. </p>
+                <div className="text-gray-800">
+                    <span className='font-semibold text-xl'>
+                        Emails:</span><p className='py-2'><li><span className="text-blue-500">texassourcepros.purchasing@gmail.com,</span></li>
+                        <li><span className="text-blue-500">Purchasing@texassourcepros.com,</span></li>
+                        <li><span className="text-blue-500">Payables@texassourcepros.com,</span></li>
+                        <li><span className="text-blue-500">Erica@texassourcepros.com,</span></li>
+                        <li><span className="text-blue-500">Quotes@texassourcepros.com. </span></li>
+                    </p>
+
 
                 </div>
-                <p className="text-gray-600">
-                    Address: 17350 State Highway 249 Ste 220, Houston, TX 77064-1132
+                <p className="text-gray-800 pb-2">
+                    <span className='font-semibold '>Address:</span> 17350 State Highway 249 Ste 220, Houston, TX 77064-1132
                 </p>
             </section>
         </div>

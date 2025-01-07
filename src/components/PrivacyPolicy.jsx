@@ -58,7 +58,7 @@ const PrivacyPolicy = () => {
                 </ul>
                 <p className="text-gray-600">
                     You can manage cookie preferences and opt-out by adjusting your browser settings. For more details, see our
-                    <a href="/cookie-policy" className="text-blue-500">Cookie Policy</a>.
+                    <a href="/" className="text-blue-500">Cookie Policy</a>.
                 </p>
             </section>
 

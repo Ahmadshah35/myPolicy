@@ -129,10 +129,10 @@ const PrivacyPolicy = () => {
                     rights regarding your personal data, please contact us at:
                 </p>
                 <div className="text-gray-600">
-                    Emails: <span className="text-blue-500">texassourcepros.purchasing@gmail.com ,</span>
-                    <p className="text-blue-500">Purchasing@texassourcepros.com ,</p>
-                    <p className="text-blue-500">Payables@texassourcepros.com ,</p>
-                    <p className="text-blue-500">Erica@texassourcepros.com ,</p>
+                    Emails: <span className="text-blue-500">texassourcepros.purchasing@gmail.com,</span>
+                    <p className="text-blue-500">Purchasing@texassourcepros.com,</p>
+                    <p className="text-blue-500">Payables@texassourcepros.com,</p>
+                    <p className="text-blue-500">Erica@texassourcepros.com,</p>
                     <p className="text-blue-500">Quotes@texassourcepros.com. </p>
 
                 </div>

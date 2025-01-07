@@ -129,10 +129,14 @@ const PrivacyPolicy = () => {
                     rights regarding your personal data, please contact us at:
                 </p>
                 <p className="text-gray-600">
-                    Email: <span className="text-blue-500">support@texassource.com</span>
+                    Email: <span className="text-blue-500">Purchasing@texassourcepros.com</span>
+                    Email: <span className="text-blue-500">Payables@texassourcepros.com</span>
+                    Email: <span className="text-blue-500">Erica@texassourcepros.com </span>
+                    Email: <span className="text-blue-500">Quotes@texassourcepros.com </span>
+
                 </p>
                 <p className="text-gray-600">
-                    Address: 1234 Privacy St., Suite 567, Your City, Texas, USA
+                    Address: 17350 State Highway 249 Ste 220, Houston, TX 77064-1132
                 </p>
             </section>
         </div>
